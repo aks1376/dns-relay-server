@@ -1,6 +1,7 @@
 {
   "customRecords": {
-    "example.com": "192.168.10.100",
+    "example.com": "192.168.10.200",
+    "vmware.local": "192.168.10.101",
     "myApp.com": "127.0.0.1"
   }
 }
